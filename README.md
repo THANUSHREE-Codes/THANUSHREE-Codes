@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm THANUSHREE</h1>
 <h3 align="center">A passionate fullstack developer and student from India.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: uthanushree2006@gmail.com</h3>
 <p align="left">
 </p>
 
