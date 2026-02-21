@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm THANUSHREE</h1>
-<h3 align="center">A passionate student from India.Im passionate about MERN stack and Game Dev</h3>
+<h3 align="center">A passionate learner from India.Im interested in MERN stack Dev,Game Dev and also VFX</h3>
 
 <h3 align="left">Connect with me: uthanushree2006@gmail.com</h3>
 <p align="left">
