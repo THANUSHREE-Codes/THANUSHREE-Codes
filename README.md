@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm THANUSHREE</h1>
 <h3 align="center">A passionate learner from India.Im interested in MERN stack Dev,Game Dev and  VFX</h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400" alt="HII THERE!!">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240820597-a762dc06-3a4c-432e-8679-a99fe8a433b7.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE3NjczNzEsIm5iZiI6MTc3MTc2NzA3MSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjA1OTctYTc2MmRjMDYtM2E0Yy00MzJlLTg2NzktYTk5ZmU4YTQzM2I3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIyVDEzMzExMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQxYTlkODZjMGJjZDI5MGZjYTYzMDdmMjExZWM2ZmMyMzQzYzgzOTA4NTQxOTkzY2MxY2NkNWRiZGEwOGM3YTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.c-2RGeoE1WMGTgc7xethxvv4PiuEJofDJNzj_HQeb3A" width="400" alt="HII THERE!!">
 </p>
 
 <h3 align="left">Connect with me: uthanushree2006@gmail.com</h3>
