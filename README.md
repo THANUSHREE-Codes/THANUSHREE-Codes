@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm THANUSHREE</h1>
-<h3 align="center">A passionate learner from India.Im interested in MERN stack Dev,Game Dev and also VFX</h3>
+<h3 align="center">A passionate learner from India.Im interested in MERN stack Dev,Game Dev and  VFX</h3>
+https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif
 
 <h3 align="left">Connect with me: uthanushree2006@gmail.com</h3>
 <p align="left">
