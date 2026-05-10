@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanushree-codes&label=Profile%20views&color=0e75b6&style=flat" alt="thanushree-codes" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK,GAME DEVELOPMENT**
+- 🌱 I’m currently learning **MERN STACK,GAME DEVELOPMENT AND ALSO DATA ANALYTICS**
 
 - ⚡ Fun fact **I love MUSIC!**
 
